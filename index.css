@@ -1,0 +1,70 @@
+body{
+    display: inline-block;
+    width:100%;
+    background-color: bisque;
+    background-size: cover;
+    font-family:'poppins',sans-serif;
+    margin-left: 0;
+    padding-left: 1px;
+    margin-top: 0px;
+    }
+    header{
+        height: 107px;
+        background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20210623/pngtree-yellow-african-traditional-background-image_732421.jpg ) ;
+        width: 100%;
+    
+        position: fixed;
+        margin-left: 0px;
+        margin-top: 0px;
+        padding-top: 0px;
+    } 
+    #pira {
+   text-align: center;
+    }
+    #renai{
+     
+text-align: center;
+    }
+    #mosq{
+        text-align: center;
+    }
+    #her{
+        text-align: center;
+    }
+    
+    section{
+        margin-left: 1px;
+    }
+   
+    .logo a {
+        text-decoration: none;
+        text-decoration:none;
+        font-size: 24px;
+        font-family: poppins;
+        color:rgb(0, 0, 0);
+        letter-spacing:5PX;
+    }
+    nav{
+        float: right;
+        line-height: 10px;
+    }
+    nav a {
+        text-decoration: dashed;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: 20px;
+        margin: 15px;
+        color: rgb(7, 7, 238);
+    }
+  #pied{
+    background-color: rgb(78, 45, 15);
+    height: 110px;
+    width: 100%;
+    margin-top: 0%;
+  }
+    
+  
+
+  
+
+
+ 
